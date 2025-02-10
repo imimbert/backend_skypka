@@ -1,0 +1,7 @@
+vnmarqwyqqlqdgbi
+
+数据库名称	skypka
+数据库用户	skypka
+数据库密码	NLqG7xWiO2R7zEn9
+数据库地址端口	mysql.sqlpub.com:3306
+注册邮箱	69507devs@gmail.com
